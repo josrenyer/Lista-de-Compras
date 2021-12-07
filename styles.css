@@ -44,6 +44,8 @@ a{
   border-radius: 10px;
   cursor: pointer;
   background: white;
+  width: 32px;
+  height: 32px;
 }
 
 .emoji{
@@ -58,5 +60,5 @@ li{
   margin: 20px;
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
