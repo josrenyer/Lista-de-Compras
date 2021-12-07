@@ -11,6 +11,7 @@ El sigueinte proyecto se realizo con:
 ## Pantallas
 
 Inicio
+
 <img src="./Imagen/inicio.png"/>
 
 
