@@ -10,5 +10,10 @@ El sigueinte proyecto se realizo con:
 
 ## Pantallas
 
+Inicio
+<img src="./Imagen/inicio.png"/>
 
-<img src="./Imagen/inicio.png"/> JavaScript
+
+Agregando Productos
+
+<img src="./Imagen/lista.png"/>
