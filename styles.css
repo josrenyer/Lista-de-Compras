@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background:linear-gradient(rgba(167,218,208,0.75), rgba(5,7,12,0.75)),
+  url("./Imagen/Tienda.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: white;
+}
+
+
+nav{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between; 
+  border: solid 1px black;
+  background-color: #2DF3CF;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  border: solid 1px black;
+  border-radius: 15px;
+  margin: 30px;
+  padding: 20px 10px 20px 10px;
+}
+
+.container2{
+  border-radius: 15px;
+  margin: 30px;
+  padding: 20px 10px 20px 10px;
+}
+
+.button{
+  border: solid 1px black;
+  border-radius: 10px;
+  cursor: pointer;
+  background: white;
+}
+
+.emoji{
+  border: none;
+}
+
+.div_total{
+  align: center;
+}
+
+li{
+  margin: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

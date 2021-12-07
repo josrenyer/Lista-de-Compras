@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Lista de Tareas</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+	<nav>
+		<h1>Lista de Comprás</h1>
+		<a href="./About.html" class="about"><h1>About</h1></a>
+	</nav>
+	<div class="container">
+		<div class="Search">
+			<form>
+				<h1>Ingresé los Porductos</h1><br>
+				<label>Nombre del Producto: <input class="product" type="text" size="10"></label>
+     			<label>Precio: <input class="amount" type="number" min="1" max="200000"></label>
+     			<label>Unidades: <input class="units" type="number" min="1" max="10" value="1"></label><br>
+     			<img class="button" src="https://img.icons8.com/color/30/000000/shopping-cart--v1.png"/>
+			</form>
+		</div>
+		<div class="div_total">
+			<label>Total</label>
+			<input class="total" type="text" value="0" disabled>
+		</div>
+		<div class="li_container">
+			<ul>
+				
+			</ul>
+		</div>
+	</div>
+	<script src="./main.js"></script>
+</body>
+</html>
