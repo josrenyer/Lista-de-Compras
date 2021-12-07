@@ -10,7 +10,6 @@ El sigueinte proyecto se realizo con:
 
 [![](https://img.icons8.com/flat-round/48/000000/play--v1.png)](https://josrenyer.github.io/Lista-de-Compras/) Ejecutable
 
-<img src=""/>
 
 
 ## Pantallas
